@@ -80,3 +80,4 @@ Static Web Apps](https://docs.microsoft.com/learn/modules/create-deploy-static-w
 
 Caso tenham dúvidas aos códigos dos projetos relacionados aos workshops, sintam-se a vontade em abrir uma **[ISSUE AQUI](https://github.com/glaucia86/vue-chat-swa/issues)**. Assim que possível, estarei respondendo as todas as dúvidas que tiverem!
 # my-first-swa
+# my-first-swa
